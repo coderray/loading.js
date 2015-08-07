@@ -20,3 +20,6 @@ Loading.js是本人最近开发的一款CSS3动画loading小插件。它集合�
           bgColor：设置动画背景色，默认"#ed5565"
           imgs：自定义加载的图片数组
   3、第三个参数为回调函数，可不填。
+
+
+主页地址：http://www.chengguanhui.com/demos/loading-js/
